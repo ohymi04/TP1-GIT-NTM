@@ -20,7 +20,7 @@ L'évaluation portera sur :
 
 ## Lyrics of "Laisse pas traîner ton fils"
 
-[Laisse pas traîner ton fils](https://github.com/ohymi04/TP1-GIT-NTM/blob/main/LYRICS.md)
+♫ (っ◔◡◔)っ ♥ [Laisse pas traîner ton fils](https://github.com/ohymi04/TP1-GIT-NTM/blob/main/LYRICS.md)♫
 
 ## Fichier Joint
 - [Chanson IAM (PDF)](https://github.com/ohymi04/TP1-GIT-NTM/blob/development/TP1-GIT/TP1%20-%20GIT%20-%20IAM.pdf)

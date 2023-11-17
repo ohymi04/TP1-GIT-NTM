@@ -19,8 +19,8 @@ L'évaluation portera sur :
 - Le formatage du contenu du fichier commun contenant les paroles de la chanson 🎵.
 
 ## Fichier Joint
-- [Chanson IAM (PDF)]()
-- [Chanson NTM (PDF)]()
+- [Chanson IAM (PDF)](/Users/ohymi04/Library/CloudStorage/OneDrive-Efrei/Efrei2/Versionning de code GIT/TP1-GIT-NTM/TP1-GIT/TP1 - GIT - IAM.pdf)
+- [Chanson NTM (PDF)](/Users/ohymi04/Library/CloudStorage/OneDrive-Efrei/Efrei2/Versionning de code GIT/TP1-GIT-NTM/TP1-GIT/TP1 - GIT - NTM.pdf)
 
 ---
 

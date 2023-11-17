@@ -18,6 +18,10 @@ L'évaluation portera sur :
 - La bonne utilisation des merge et des rebase ⚙️ ;
 - Le formatage du contenu du fichier commun contenant les paroles de la chanson 🎵.
 
+## Fichier Joint
+- [Chanson IAM (PDF)]()
+- [Chanson NTM (PDF)](/Users/ohymi04/Library/CloudStorage/OneDrive-Efrei/Efrei2/Versionning de code GIT/TP/TP1 - GIT - NTM.pdf)
+
 ---
 
 *Note: Utilisez votre créativité pour rendre le projet encore plus intéressant et amusant!*

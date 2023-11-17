@@ -28,7 +28,7 @@ Laisse pas traîner ton fils 🚫\
 Si tu ne veux pas qu'il glisse 🏂\
 Qu'il te ramène du vice 😈\
 Laisse pas traîner ton fils 🚷\
-Si tu veux pas qu'il glisse 🚫\
+Si tu veux pas qu'il glisse 🚫
 
 ## Paragraphe
 Putain, c'est en me disant "j'ai jamais demandé à t'avoir!"  
@@ -57,7 +57,7 @@ Laisse pas traîner ton fils 🚫\
 Si tu ne veux pas qu'il glisse 🏂\
 Qu'il te ramène du vice 😈\
 Laisse pas traîner ton fils 🚷\
-Si tu veux pas qu'il glisse 🚫\
+Si tu veux pas qu'il glisse 🚫
 
 ## Paragraphe
 Que voulais-tu que ton fils apprenne dans la rue?  
@@ -85,13 +85,13 @@ Laisse pas traîner ton fils 🚫\
 Si tu ne veux pas qu'il glisse 🏂\
 Qu'il te ramène du vice 😈\
 Laisse pas traîner ton fils 🚷\
-Si tu veux pas qu'il glisse 🚫\
+Si tu veux pas qu'il glisse 🚫
 
 Laisse pas traîner ton fils 🚫\
 Si tu ne veux pas qu'il glisse 🏂\
 Qu'il te ramène du vice 😈\
 Laisse pas traîner ton fils 🚷\
-Si tu veux pas qu'il glisse 🚫\
+Si tu veux pas qu'il glisse 🚫
 
 
 

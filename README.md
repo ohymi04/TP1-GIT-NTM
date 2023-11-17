@@ -20,7 +20,7 @@ L'évaluation portera sur :
 
 ## Fichier Joint
 - [Chanson IAM (PDF)]()
-- [Chanson NTM (/Users/ohymi04/Library/CloudStorage/OneDrive-Efrei/Efrei2/Versionning de code GIT/TP/TP1 - GIT - NTM.pdf)]
+- [Chanson NTM (PDF)]()
 
 ---
 

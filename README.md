@@ -18,6 +18,10 @@ L'évaluation portera sur :
 - La bonne utilisation des merge et des rebase ⚙️ ;
 - Le formatage du contenu du fichier commun contenant les paroles de la chanson 🎵.
 
+## Lyrics of "Laisse pas traîner ton fils"
+
+[Laisse pas traîner ton fils](https://github.com/ohymi04/TP1-GIT-NTM/blob/main/LYRICS.md)
+
 ## Fichier Joint
 - [Chanson IAM (PDF)](https://github.com/ohymi04/TP1-GIT-NTM/blob/development/TP1-GIT/TP1%20-%20GIT%20-%20IAM.pdf)
 - [Chanson NTM (PDF)](https://github.com/ohymi04/TP1-GIT-NTM/blob/development/TP1-GIT/TP1%20-%20GIT%20-%20NTM.pdf)

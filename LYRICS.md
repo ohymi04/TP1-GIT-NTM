@@ -24,11 +24,11 @@ Regarde-le, quand il parle, écoute-le!
 Le laisse pas chercher ailleurs l'amour qu'il devrait y avoir dans tes yeux  
 
 ## Refrain
-Laisse pas traîner ton fils 🚫
-Si tu ne veux pas qu'il glisse 🏂
-Qu'il te ramène du vice 😈
-Laisse pas traîner ton fils 🚷
-Si tu veux pas qu'il glisse 🚫
+Laisse pas traîner ton fils 🚫\
+Si tu ne veux pas qu'il glisse 🏂\
+Qu'il te ramène du vice 😈\
+Laisse pas traîner ton fils 🚷\
+Si tu veux pas qu'il glisse 🚫\
 
 ## Paragraphe
 Putain, c'est en me disant "j'ai jamais demandé à t'avoir!"  
@@ -53,11 +53,11 @@ Donc j'ai dû renoncer, trouver mes propres complices
 Mes partenaires de glisse, désolé si je m'immisce  
 
 ## Refrain
-Laisse pas traîner ton fils 🚫
-Si tu ne veux pas qu'il glisse 🏂
-Qu'il te ramène du vice 😈
-Laisse pas traîner ton fils 🚷
-Si tu veux pas qu'il glisse 🚫
+Laisse pas traîner ton fils 🚫\
+Si tu ne veux pas qu'il glisse 🏂\
+Qu'il te ramène du vice 😈\
+Laisse pas traîner ton fils 🚷\
+Si tu veux pas qu'il glisse 🚫\
 
 ## Paragraphe
 Que voulais-tu que ton fils apprenne dans la rue?  
@@ -80,18 +80,18 @@ Si tu ne veux pas qu'il glisse
 Qu'il te ramène du vice 
 
 ## Refrain
-Non laisse pas traîner ton fils 🚷
-Laisse pas traîner ton fils 🚫
-Si tu ne veux pas qu'il glisse 🏂
-Qu'il te ramène du vice 😈
-Laisse pas traîner ton fils 🚷
-Si tu veux pas qu'il glisse 🚫
+Non laisse pas traîner ton fils 🚷\
+Laisse pas traîner ton fils 🚫\
+Si tu ne veux pas qu'il glisse 🏂\
+Qu'il te ramène du vice 😈\
+Laisse pas traîner ton fils 🚷\
+Si tu veux pas qu'il glisse 🚫\
 
-Laisse pas traîner ton fils 🚫
-Si tu ne veux pas qu'il glisse 🏂
-Qu'il te ramène du vice 😈
-Laisse pas traîner ton fils 🚷
-Si tu veux pas qu'il glisse 🚫
+Laisse pas traîner ton fils 🚫\
+Si tu ne veux pas qu'il glisse 🏂\
+Qu'il te ramène du vice 😈\
+Laisse pas traîner ton fils 🚷\
+Si tu veux pas qu'il glisse 🚫\
 
 
 
